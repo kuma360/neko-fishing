@@ -4,7 +4,9 @@
 
 Unity 2017.3.0f3で作りました。
 
-#LICENSE
+
+## LICENSE
+
 see license.txt
 
 -For images
